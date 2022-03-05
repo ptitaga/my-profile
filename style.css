@@ -123,12 +123,12 @@ li {
 	padding-left: 0px;
 }
 
-.list-inline > li {
+.list-inline li {
 	display: inline;
 	padding: 0px 20px;
 }
 
-.list-inline > p {
+.list-inline p {
 	display: inline;
 	padding: 0px 20px;
 }
